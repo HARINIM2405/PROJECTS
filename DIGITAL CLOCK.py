@@ -1,3 +1,8 @@
+/* A digital clock project in Python utilizes the `tkinter` library to create a 
+GUI application that displays the current time, updating every second. It leverages the 
+`time` module to fetch and format the system time continuously. */
+
+
 from tkinter import *
 from tkinter.ttk import *
 from time import strftime
